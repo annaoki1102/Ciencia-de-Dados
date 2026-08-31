@@ -2,25 +2,25 @@
 
 ## Ciência de Dados e Aprendizagem de Máquina — Aula 01
 
-**Tema:** Introdução à Ciência de Dados e Big Data
-**Metodologia:** Trabalho em equipe
-**Tempo:** 20 minutos
+**Tema:** Introdução à Ciência de Dados e Big Data  
+**Metodologia:** Trabalho em equipe  
+**Tempo:** 20 minutos  
 **Entregável:** Mapa do Problema de Ciência de Dados
 
 ---
 
 ## 1. Identificação da equipe
 
-| Campo             | Resposta |
-| ----------------- | -------- |
-| **Turma:**        | Sistemas de Informação         |
-| **Data:**         |  19/08        |
-| **Equipe:**       |          |
-| **Integrante 1:** |          |
-| **Integrante 2:** |          |
-| **Integrante 3:** |          |
-| **Integrante 4:** |          |
-| **Integrante 5:** |          |
+| Campo | Resposta |
+|---|---|
+| **Turma:** | |
+| **Data:** | |
+| **Equipe:** | |
+| **Integrante 1:** | |
+| **Integrante 2:** | |
+| **Integrante 3:** | |
+| **Integrante 4:** | |
+| **Integrante 5:** | |
 
 ---
 
@@ -40,16 +40,16 @@ O objetivo é aprender a **pensar como um cientista de dados**:
 
 Escolha uma área para investigar:
 
-* [ ] Comércio
-* [ ] Banco
-* [ ] Saúde
-* [ ] Transporte
-* [ ] Educação
-* [ ] Entretenimento
-* [ ] Indústria
-* [ ] Meio ambiente
-* [ ] Esportes
-* [ ] Outra: __________________________
+- [ ] Comércio
+- [ ] Banco
+- [ ] Saúde
+- [ ] Transporte
+- [ ] Educação
+- [ ] Entretenimento
+- [ ] Indústria
+- [ ] Meio ambiente
+- [ ] Esportes
+- [ ] Outra: __________________________
 
 ### Problema escolhido
 
@@ -57,11 +57,11 @@ Escolha uma área para investigar:
 
 > Escreva aqui:
 >
-> ---
+> ________________________________________________________________
 >
-> ---
+> ________________________________________________________________
 >
-> ---
+> ________________________________________________________________
 
 ---
 
@@ -71,15 +71,15 @@ Identifique a organização, grupo ou público afetado pelo problema.
 
 **Quem possui ou enfrenta esse problema?**
 
-> ---
+> ________________________________________________________________
 >
-> ---
+> ________________________________________________________________
 
 ### Quem é afetado pelo problema?
 
-> ---
+> ________________________________________________________________
 >
-> ---
+> ________________________________________________________________
 
 ---
 
@@ -89,11 +89,11 @@ Explique por que vale a pena investigar esse problema utilizando dados.
 
 **Qual é o impacto do problema?**
 
-> ---
+> ________________________________________________________________
 >
-> ---
+> ________________________________________________________________
 >
-> ---
+> ________________________________________________________________
 
 ---
 
@@ -103,11 +103,11 @@ Imagine que sua equipe foi contratada para ajudar uma organização.
 
 **Qual decisão a organização precisa tomar?**
 
-> ---
+> ________________________________________________________________
 >
-> ---
+> ________________________________________________________________
 >
-> ---
+> ________________________________________________________________
 
 ---
 
@@ -120,30 +120,30 @@ Agora pense:
 Liste pelo menos **5 dados**.
 
 | Nº | Dado necessário | Por que esse dado é importante? |
-| -: | --------------- | ------------------------------- |
-|  1 |                 |                                 |
-|  2 |                 |                                 |
-|  3 |                 |                                 |
-|  4 |                 |                                 |
-|  5 |                 |                                 |
+|---:|---|---|
+| 1 | | |
+| 2 | | |
+| 3 | | |
+| 4 | | |
+| 5 | | |
 
 ### Exemplos
 
 Podem ser considerados dados como:
 
-* idade;
-* localização;
-* frequência;
-* notas;
-* compras;
-* valores;
-* horários;
-* avaliações;
-* histórico de utilização;
-* registros de atendimento;
-* imagens;
-* textos;
-* localização geográfica.
+- idade;
+- localização;
+- frequência;
+- notas;
+- compras;
+- valores;
+- horários;
+- avaliações;
+- histórico de utilização;
+- registros de atendimento;
+- imagens;
+- textos;
+- localização geográfica.
 
 ---
 
@@ -155,19 +155,19 @@ Os dados, quando analisados, podem gerar informações úteis.
 
 ### Pergunta 1
 
-> ---
+> ________________________________________________________________
 
 ### Pergunta 2
 
-> ---
+> ________________________________________________________________
 
 ### Pergunta 3
 
-> ---
+> ________________________________________________________________
 
 ### Pergunta 4
 
-> ---
+> ________________________________________________________________
 
 ---
 
@@ -177,22 +177,22 @@ Pense como um cientista de dados.
 
 Sua equipe poderia procurar:
 
-* [ ] Tendências
-* [ ] Comparações
-* [ ] Grupos semelhantes
-* [ ] Comportamentos recorrentes
-* [ ] Valores fora do padrão
-* [ ] Relações entre variáveis
-* [ ] Mudanças ao longo do tempo
-* [ ] Outros: __________________________
+- [ ] Tendências
+- [ ] Comparações
+- [ ] Grupos semelhantes
+- [ ] Comportamentos recorrentes
+- [ ] Valores fora do padrão
+- [ ] Relações entre variáveis
+- [ ] Mudanças ao longo do tempo
+- [ ] Outros: __________________________
 
 ### Explique um padrão que vocês gostariam de encontrar
 
-> ---
+> ________________________________________________________________
 >
-> ---
+> ________________________________________________________________
 >
-> ---
+> ________________________________________________________________
 
 ---
 
@@ -202,21 +202,21 @@ Como os dados poderiam ser analisados?
 
 Marque uma ou mais possibilidades:
 
-* [ ] Análise descritiva
-* [ ] Comparação entre grupos
-* [ ] Análise temporal
-* [ ] Visualização por gráficos
-* [ ] Identificação de padrões
-* [ ] Classificação
-* [ ] Previsão
-* [ ] Agrupamento
-* [ ] Outra: __________________________
+- [ ] Análise descritiva
+- [ ] Comparação entre grupos
+- [ ] Análise temporal
+- [ ] Visualização por gráficos
+- [ ] Identificação de padrões
+- [ ] Classificação
+- [ ] Previsão
+- [ ] Agrupamento
+- [ ] Outra: __________________________
 
 ### Explique
 
-> ---
+> ________________________________________________________________
 >
-> ---
+> ________________________________________________________________
 
 ---
 
@@ -226,11 +226,11 @@ Depois de analisar os dados, imagine que sua equipe encontrou informações impo
 
 **Que decisão poderia ser tomada com base nos resultados?**
 
-> ---
+> ________________________________________________________________
 >
-> ---
+> ________________________________________________________________
 >
-> ---
+> ________________________________________________________________
 
 ---
 
@@ -238,11 +238,11 @@ Depois de analisar os dados, imagine que sua equipe encontrou informações impo
 
 Qual seria o possível benefício da decisão para a organização ou para as pessoas envolvidas?
 
-> ---
+> ________________________________________________________________
 >
-> ---
+> ________________________________________________________________
 >
-> ---
+> ________________________________________________________________
 
 ---
 
@@ -250,23 +250,23 @@ Qual seria o possível benefício da decisão para a organização ou para as pe
 
 Analise o problema escolhido pela equipe.
 
-| V              | Pergunta                                                   | Resposta da equipe |
-| -------------- | ---------------------------------------------------------- | ------------------ |
-| **Volume**     | Existe uma grande quantidade de dados?                     |                    |
-| **Velocidade** | Os dados são gerados ou processados rapidamente?           |                    |
-| **Variedade**  | Existem diferentes tipos ou formatos de dados?             |                    |
-| **Veracidade** | Os dados podem apresentar erros ou problemas de qualidade? |                    |
-| **Valor**      | Os dados podem gerar algum benefício ou apoiar decisões?   |                    |
+| V | Pergunta | Resposta da equipe |
+|---|---|---|
+| **Volume** | Existe uma grande quantidade de dados? | |
+| **Velocidade** | Os dados são gerados ou processados rapidamente? | |
+| **Variedade** | Existem diferentes tipos ou formatos de dados? | |
+| **Veracidade** | Os dados podem apresentar erros ou problemas de qualidade? | |
+| **Valor** | Os dados podem gerar algum benefício ou apoiar decisões? | |
 
 ### Qual dos 5 Vs é mais relevante para o problema?
 
-> ---
+> ________________________________________________________________
 
 ### Justifique
 
-> ---
+> ________________________________________________________________
 >
-> ---
+> ________________________________________________________________
 
 ---
 
@@ -314,29 +314,23 @@ Complete o fluxo abaixo:
 
 ### Resuma cada etapa
 
-**Problema:**
+**Problema:**  
+> 
 
->
+**Dados:**  
+> 
 
-**Dados:**
+**Informação:**  
+> 
 
->
+**Análise:**  
+> 
 
-**Informação:**
+**Decisão:**  
+> 
 
->
-
-**Análise:**
-
->
-
-**Decisão:**
-
->
-
-**Benefício:**
-
->
+**Benefício:**  
+> 
 
 ---
 
@@ -348,27 +342,27 @@ Organizem a apresentação seguindo esta estrutura:
 
 ### 1. Nosso problema
 
-> ---
+> _________________________________________________
 
 ### 2. Precisamos destes dados
 
-> ---
+> _________________________________________________
 
 ### 3. Queremos descobrir
 
-> ---
+> _________________________________________________
 
 ### 4. Pretendemos analisar
 
-> ---
+> _________________________________________________
 
 ### 5. A decisão poderia ser
 
-> ---
+> _________________________________________________
 
 ### 6. O benefício esperado é
 
-> ---
+> _________________________________________________
 
 ---
 
@@ -376,18 +370,18 @@ Organizem a apresentação seguindo esta estrutura:
 
 Antes de entregar, confira:
 
-* [ ] Definimos um problema real.
-* [ ] Identificamos quem é afetado pelo problema.
-* [ ] Explicamos por que o problema é importante.
-* [ ] Identificamos pelo menos 5 dados necessários.
-* [ ] Definimos perguntas que queremos responder.
-* [ ] Identificamos possíveis padrões.
-* [ ] Indicamos como os dados poderiam ser analisados.
-* [ ] Definimos uma possível decisão.
-* [ ] Identificamos o benefício esperado.
-* [ ] Analisamos os 5 Vs do Big Data.
-* [ ] Preenchemos o Mapa do Problema.
-* [ ] Estamos preparados para apresentar em 2 minutos.
+- [ ] Definimos um problema real.
+- [ ] Identificamos quem é afetado pelo problema.
+- [ ] Explicamos por que o problema é importante.
+- [ ] Identificamos pelo menos 5 dados necessários.
+- [ ] Definimos perguntas que queremos responder.
+- [ ] Identificamos possíveis padrões.
+- [ ] Indicamos como os dados poderiam ser analisados.
+- [ ] Definimos uma possível decisão.
+- [ ] Identificamos o benefício esperado.
+- [ ] Analisamos os 5 Vs do Big Data.
+- [ ] Preenchemos o Mapa do Problema.
+- [ ] Estamos preparados para apresentar em 2 minutos.
 
 ---
 
@@ -399,13 +393,13 @@ Responda individualmente ou em equipe:
 
 **Resposta:**
 
-> ---
+> ________________________________________________________________
 >
-> ---
+> ________________________________________________________________
 >
-> ---
+> ________________________________________________________________
 >
-> ---
+> ________________________________________________________________
 
 ---
 
