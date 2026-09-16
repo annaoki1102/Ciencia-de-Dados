@@ -10,13 +10,13 @@
 
 | Campo | Preenchimento |
 |---|---|
-| Título provisório do projeto |Teste |
-| Curso / disciplina | |
-| Turma | |
+| Título provisório do projeto |Lógica computacional como estrutura intermediária para tradução entre representações |
+| Curso / disciplina |Ciência de Dados e Aprendizado de Máquina |
+| Turma |Noturno |
 | Equipe | |
 | Integrantes e funções iniciais | |
-| Professor(a) | |
-| Data de elaboração | |
+| Professor(a) |Kadidja |
+| Data de elaboração |16/09/2026 |
 | Versão do documento | |
 
 ## 2. Visão geral
