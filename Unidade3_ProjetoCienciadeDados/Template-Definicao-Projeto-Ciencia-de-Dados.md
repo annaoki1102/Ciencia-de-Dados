@@ -27,7 +27,7 @@ Em até 100 palavras, apresente o problema, o público-alvo, a proposta de anál
 
 **Preenchimento:**
 
-Problema: representações computacionais (código, fluxogramas, blueprints, low-code/no-code) são tratadas como ambientes isolados, sem mecanismo de tradução entre elas, gerando retrabalho e dificultando a comunicação entre perfis técnicos distintos.
+Problema: representações computacionais (código, fluxogramas, nós, low-code/no-code) são tratadas como ambientes isolados, sem mecanismo de tradução entre elas, gerando retrabalho e dificultando a comunicação entre perfis técnicos distintos.
 Público-alvo: comunidade acadêmica e desenvolvedores interessados em interoperabilidade enre ambientes de desenvolvimento textuais e visuais.
 Proposta de análise: revisão bibliográfica e documental, investigando se diferentes representações compartilham uma estrutura lógica comum, capaz de atuar como camada intermediária de tradução.
 Resultado esperado: um modelo conceitual em três etapas (interpretação-> estrutura lógica intermediária-> geração), demonstrando que código e representações visuais são formas distintas da mesma lógica, base teórica para futura implementação e validação prática.
