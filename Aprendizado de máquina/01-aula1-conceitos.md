@@ -18,9 +18,9 @@ Distinguir programação tradicional e Machine Learning, identificar atributos e
 
 ## 1. Explicação com suas palavras
 
-1. Como um modelo aprende com dados? **PREENCHER**
-2. Qual diferença entre algoritmo e modelo? **PREENCHER**
-3. Compare uma regra de bloqueio de palavra com um modelo de spam. **PREENCHER**
+1. Como um modelo aprende com dados? O modelo aprende olhando muitos exemplos que já têm a resposta. Por exemplo, dados de estudantes (frequência, nota e entregas) e se ele evadiu ou permaneceu. Ele procura a relação entre esses dados e o resultado, e ajusta seus valores internos quando erra. Depois, usa o que aprendeu para prever casos novos, sem ninguém escrever as regras.
+2. Qual diferença entre algoritmo e modelo? O algoritmo é o passo a passo que o computador segue para aprender, como a árvore de decisão. O modelo é o resultado desse aprendizado: o que sobra depois que o algoritmo treinou com os dados e que a gente usa para fazer previsões.
+3. Compare uma regra de bloqueio de palavra com um modelo de spam. Na regra de bloqueio, uma pessoa escreve a regra à mão: se a mensagem tem tal palavra, bloqueia. Ela só pega o que já foi previsto e é fácil de driblar, basta trocar a palavra. No modelo de spam, ele aprende com mensagens já marcadas como spam ou não spam e descobre sozinho os sinais, então consegue pegar casos novos. Em compensação, ele pode errar e precisa de bons dados para treinar.
 4. Dê um exemplo de atributo e alvo e defina o momento da previsão. **PREENCHER**
 
 ## 2. Quadro comparativo
