@@ -9,9 +9,9 @@ Este repositório registra as atividades de introdução ao Machine Learning e d
 
 ## Identificação do repositório
 
-- Estudante ou equipe: **PREENCHER**
-- Turma: **PREENCHER**
-- Repositório: **PREENCHER**
+- Estudante ou equipe: Anna Beatriz Oki
+- Turma: Ciência de Dados
+- Repositório: https://github.com/annaoki1102/Ciencia-de-Dados
 
 ## Atividades
 
@@ -56,11 +56,11 @@ Se preferir criar arquivos diretamente no GitHub, use **Add file > Create new fi
 
 ## Situação das entregas
 
-- [ ] Aula 1: quadro comparativo e problemas justificados.
-- [ ] PBL Biblioteca em Foco.
-- [ ] Aula 2: notebook ou fluxo Orange e relatório.
-- [ ] PBL Apoio à Permanência.
-- [ ] Revisão e autoavaliação.
+- [x] Aula 1: quadro comparativo e problemas justificados.
+- [x] PBL Biblioteca em Foco.
+- [x] Aula 2: notebook ou fluxo Orange e relatório.
+- [x] PBL Apoio à Permanência.
+- [x] Revisão e autoavaliação.
 
 ## Fonte da atividade
 
